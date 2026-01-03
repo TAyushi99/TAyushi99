@@ -1,49 +1,80 @@
-<h1 align="center">Hi 👋, I'm Ayushi</h1>
-<h3 align="center">📊 Data Analyst | 🐍 Python | 📈 Analytics & Insights</h3>
+<h1 align="center">Hi 👋, I'm Ayushi Tiwari</h1>
+<h3 align="center">📊 Data Analyst | 🐍 Python | 🗄️ SQL | 📑 Excel | 📈 Power BI</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TAyushi99&label=Profile%20views&color=0e75b6&style=flat" />
+  Turning raw data into actionable insights through analytics and visualization
 </p>
 
 ---
 
 ## 🧠 What I Do
-✔ Analyze structured and unstructured datasets to extract insights  
-✔ Perform **data cleaning, transformation, and validation**  
-✔ Write optimized **SQL queries** for business analysis  
-✔ Conduct **Exploratory Data Analysis (EDA)** using Python  
-✔ Build clear, meaningful **data visualizations & reports**  
-✔ Translate analytical results into **business recommendations**
+
+✔ Analyze, clean, and transform complex datasets  
+✔ Perform **Exploratory Data Analysis (EDA)** using Python  
+✔ Write optimized **SQL queries** for data extraction  
+✔ Build **interactive dashboards** using Power BI  
+✔ Create reports and visual stories for stakeholders  
+✔ Apply **statistical analysis** to support decisions  
 
 ---
 
-## 🛠️ Tech Stack
-
-### 🐍 Programming & Databases
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 📚 Python Libraries
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-2E4C6D?style=for-the-badge)
-
-### 📊 Visualization & Tools
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel)
-
+## 🧰 Skills & Tools
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TAyushi99&theme=radical" />
+📊 <b>Data Analyst</b> &nbsp; | &nbsp;
+🐍 <b>Python</b> &nbsp; | &nbsp;
+🗄️ <b>SQL</b> &nbsp; | &nbsp;
+📑 <b>Excel</b> &nbsp; | &nbsp;
+📈 <b>Power BI</b>
+</p>
+
+<br>
+
+### 🐍 Programming, Libraries & Databases
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="70"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="70"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="70"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="70"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="70"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="70"/>
+</p>
+
+### 📊 Visualization & Reporting
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg" width="70"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="65"/>
+  <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" width="65"/>
 </p>
 
 ---
 
-## 📫 Connect With Me
-🔗 **LinkedIn:** www.linkedin.com/in/--ayushi-tiwari 
-📧 **Email:** tiwariayushi2021@gmail.com
+## 📚 Analytical Skills
 
+<p align="center">
+✔ Data Cleaning & Preprocessing &nbsp; • &nbsp;
+✔ Exploratory Data Analysis (EDA) &nbsp; • &nbsp;
+✔ Statistical Analysis <br>
+✔ KPI Tracking & Reporting &nbsp; • &nbsp;
+✔ Business Insights & Storytelling
+</p>
 
-⭐ Thanks for visiting my profile!
+---
+
+## 📫 Contact Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/--ayushi-tiwari" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Ayushi%20Tiwari-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
+
+<p align="center">
+📧 <b>Email:</b> tiwariayushi2021@gmail.com
+</p>
+
+---
+
+<p align="center">
+✨ Focused on data-driven decision making using Python, SQL, Excel & Power BI ✨
+</p>
