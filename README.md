@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayushi</h1>
-<h3 align="center">📊 Data Analyst | 🐍 Python Specialist | 📈 Analytics & Insights</h3>
+<h3 align="center">📊 Data Analyst | 🐍 Python | 📈 Analytics & Insights</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TAyushi99&label=Profile%20views&color=0e75b6&style=flat" />
@@ -34,12 +34,6 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel)
 
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TAyushi99&show_icons=true&theme=radical" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TAyushi99&theme=radical" />
