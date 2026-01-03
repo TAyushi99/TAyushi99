@@ -52,4 +52,60 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="60"/><br>MySQL
 </td>
 <td align="center" width="120">
-<img src="https://raw.githubusercont
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="60"/><br>PostgreSQL
+</td>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="60"/><br>SQL Server
+</td>
+</tr>
+</table>
+
+<br>
+
+### 📊 Visualization & Reporting
+
+<table align="center">
+<tr>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg" width="60"/><br>Excel
+</td>
+<td align="center" width="120">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="60"/><br>Power BI
+</td>
+<td align="center" width="120">
+<img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" width="60"/><br>Tableau
+</td>
+</tr>
+</table>
+
+---
+
+## 📚 Analytical Skills
+
+<p align="center">
+✔ Data Cleaning & Preprocessing &nbsp; • &nbsp;
+✔ Exploratory Data Analysis (EDA) &nbsp; • &nbsp;
+✔ Statistical Analysis <br>
+✔ KPI Tracking & Reporting &nbsp; • &nbsp;
+✔ Business Insights & Storytelling
+</p>
+
+---
+
+## 📫 Contact Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/--ayushi-tiwari" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Ayushi%20Tiwari-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
+
+<p align="center">
+📧 <b>Email:</b> tiwariayushi2021@gmail.com
+</p>
+
+---
+
+<p align="center">
+✨ Focused on data-driven decision making using Python, SQL, Excel & Power BI ✨
+</p>
